@@ -1,0 +1,10 @@
+MODULE_LICENSE_BSD filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+switches filter=lfs diff=lfs merge=lfs -text
+system_api.gyp filter=lfs diff=lfs merge=lfs -text
+constants filter=lfs diff=lfs merge=lfs -text
+dbus filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+README filter=lfs diff=lfs merge=lfs -text
+system_api.pc filter=lfs diff=lfs merge=lfs -text
